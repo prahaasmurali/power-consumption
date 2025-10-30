@@ -1,0 +1,6 @@
+com\example\powerconsumption\PowerConsumptionServiceApplication.class
+com\example\powerconsumption\model\House.class
+com\example\powerconsumption\controller\BillController.class
+com\example\powerconsumption\service\impl\BillServiceImpl.class
+com\example\powerconsumption\dao\HouseDao.class
+com\example\powerconsumption\service\BillService.class
